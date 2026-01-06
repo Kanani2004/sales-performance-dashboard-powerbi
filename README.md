@@ -1,66 +1,66 @@
-# Sales Performance Dashboard (Power BI)
+##### Sales Performance Dashboard (Power BI)
 
-# 
+##### 
 
-# 📊 Project Overview
+##### 📊 Project Overview
 
-# This project is an interactive \*\*Power BI Sales Performance Dashboard\*\* designed to analyze sales data across Indian states.
+##### This project is an interactive \*\*Power BI Sales Performance Dashboard\*\* designed to analyze sales data across Indian states.
 
-# It provides clear business insights using KPIs, trends, and product-level analysis.
+##### It provides clear business insights using KPIs, trends, and product-level analysis.
 
-# 
+##### 
 
-# 🧠 Key Insights
+##### 🧠 Key Insights
 
-# \- Total Sales: 4M
+##### \- Total Sales: 4M
 
-# \- Total Profit: 549K
+##### \- Total Profit: 549K
 
-# \- Profit Margin: 12.57%
+##### \- Profit Margin: 12.57%
 
-# \- Top Performing State: Maharashtra
+##### \- Top Performing State: Maharashtra
 
-# 
+##### 
 
-# 🛠 Tools \& Technologies
+##### 🛠 Tools \& Technologies
 
-# \- Power BI
+##### \- Power BI
 
-# \- DAX (Calculated Measures)
+##### \- DAX (Calculated Measures)
 
-# \- Excel (Data Source)
+##### \- Excel (Data Source)
 
-# 
+##### 
 
-# 📈 Visuals Included
+##### 📈 Visuals Included
 
-# \- KPI Cards (Sales, Profit, Margin)
+##### \- KPI Cards (Sales, Profit, Margin)
 
-# \- Sales by Category (Donut Chart)
+##### \- Sales by Category (Donut Chart)
 
-# \- Sales by State (Map)
+##### \- Sales by State (Map)
 
-# \- Monthly Sales Trend (Line Chart)
+##### \- Monthly Sales Trend (Line Chart)
 
-# \- Top Products by Sales (Bar Chart)
+##### \- Top Products by Sales (Bar Chart)
 
-# 🎯 Purpose
+##### 🎯 Purpose
 
-# This dashboard demonstrates my ability to:
+##### This dashboard demonstrates my ability to:
 
-# \- Clean and model data
+##### \- Clean and model data
 
-# \- Create meaningful DAX measures
+##### \- Create meaningful DAX measures
 
-# \- Design business-ready dashboards
+##### \- Design business-ready dashboards
 
-# \- Communicate insights visually
+##### \- Communicate insights visually
 
-# 
+##### 
 
-# 📬 Author
+##### 📬 Author
 
-# \*\*Kanani Maheer\*\*
+##### \*\*Kanani Maheer\*\*
 
-# Aspiring Data Analyst
+##### Aspiring Data Analyst
 
