@@ -1,34 +1,34 @@
-# \# Sales Performance Dashboard (Power BI)
+# Sales Performance Dashboard (Power BI)
 
 # 
 
-# \## 📊 Project Overview
+# 📊 Project Overview
 
-# This project is an interactive \*\*Power BI Sales Performance Dashboard\*\* designed to analyze sales data across Indian states.  
+# This project is an interactive \*\*Power BI Sales Performance Dashboard\*\* designed to analyze sales data across Indian states.
 
 # It provides clear business insights using KPIs, trends, and product-level analysis.
 
 # 
 
-# \## 🧠 Key Insights
+# 🧠 Key Insights
 
-# \- Total Sales: 4M  
+# \- Total Sales: 4M
 
-# \- Total Profit: 549K  
+# \- Total Profit: 549K
 
-# \- Profit Margin: 12.57%  
+# \- Profit Margin: 12.57%
 
-# \- Top Performing State: Maharashtra  
+# \- Top Performing State: Maharashtra
 
 # 
 
-# \## 📌 Dashboard Preview
+# 📌 Dashboard Preview
 
 # !\[Dashboard Screenshot](Images/dashboard\_overview.png)
 
 # 
 
-# \## 🛠 Tools \& Technologies
+# 🛠 Tools \& Technologies
 
 # \- Power BI
 
@@ -38,7 +38,7 @@
 
 # 
 
-# \## 📈 Visuals Included
+# 📈 Visuals Included
 
 # \- KPI Cards (Sales, Profit, Margin)
 
@@ -50,9 +50,7 @@
 
 # \- Top Products by Sales (Bar Chart)
 
-# 
-
-# \## 🎯 Purpose
+# 🎯 Purpose
 
 # This dashboard demonstrates my ability to:
 
@@ -66,11 +64,9 @@
 
 # 
 
-# \## 📬 Author
+# 📬 Author
 
-# \*\*Kanani Maheer\*\*  
+# \*\*Kanani Maheer\*\*
 
 # Aspiring Data Analyst
-
-
 
