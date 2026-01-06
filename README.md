@@ -22,12 +22,6 @@
 
 # 
 
-# 📌 Dashboard Preview
-
-# !\[Dashboard Screenshot](Images/dashboard\_overview.png)
-
-# 
-
 # 🛠 Tools \& Technologies
 
 # \- Power BI
